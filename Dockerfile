@@ -1,1 +1,1 @@
-FROM openebs/cstor-pool:2.12.2
+FROM openebs/cstor-pool:3.6.0
